@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.724c7a12.css",
+    "main.js": "/static/js/main.1603383c.js",
+    "static/media/urban-fog.jpg": "/static/media/urban-fog.8908c0ecafdf85cb8556.jpg",
+    "index.html": "/index.html",
+    "main.724c7a12.css.map": "/static/css/main.724c7a12.css.map",
+    "main.1603383c.js.map": "/static/js/main.1603383c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724c7a12.css",
+    "static/js/main.1603383c.js"
+  ]
+}

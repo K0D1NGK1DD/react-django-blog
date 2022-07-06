@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-django-blog/static/css/main.724c7a12.css",
+    "main.js": "/react-django-blog/static/js/main.346a8c6e.js",
+    "static/media/urban-fog.jpg": "/react-django-blog/static/media/urban-fog.8908c0ecafdf85cb8556.jpg",
+    "index.html": "/react-django-blog/index.html",
+    "main.724c7a12.css.map": "/react-django-blog/static/css/main.724c7a12.css.map",
+    "main.346a8c6e.js.map": "/react-django-blog/static/js/main.346a8c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724c7a12.css",
+    "static/js/main.346a8c6e.js"
+  ]
+}
